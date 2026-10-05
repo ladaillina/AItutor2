@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Git / IDE
+.git/
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local/dev-only files
+tests/
+scripts/
+artifacts/
+*.zip
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

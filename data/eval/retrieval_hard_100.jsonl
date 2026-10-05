@@ -1,0 +1,100 @@
+{"id": 1, "category": "noisy_paraphrase", "query": "why does prime factor thing have only one answer", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Fundamental Theorem of Arithmetic"]}
+{"id": 2, "category": "noisy_paraphrase", "query": "how do i prove root 5 is not rational", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Revisiting Irrational Numbers"]}
+{"id": 3, "category": "notation", "query": "why p divides a2 means p divides a", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Revisiting Irrational Numbers"]}
+{"id": 4, "category": "vague_recall", "query": "there was some theorem about every composite number being made from primes", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Fundamental Theorem of Arithmetic"]}
+{"id": 5, "category": "concept_link", "query": "how are hcf lcm and prime factorisation connected", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Fundamental Theorem of Arithmetic"]}
+{"id": 6, "category": "exact_reference", "query": "what is theorem 1.1", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Fundamental Theorem of Arithmetic"]}
+{"id": 7, "category": "student_language", "query": "euclid division thing for hcf explain", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Introduction"]}
+{"id": 8, "category": "student_language", "query": "why denominator primes decide terminating decimal", "expected_chapter": "REAL NUMBERS", "expected_titles": ["Introduction", "Fundamental Theorem of Arithmetic"]}
+{"id": 9, "category": "noisy_paraphrase", "query": "how are roots linked with a b c in quadratic polynomial", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Relationship between Zeroes and Coefficients"]}
+{"id": 10, "category": "notation", "query": "alpha plus beta formula for ax2 bx c", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Relationship between Zeroes and Coefficients"]}
+{"id": 11, "category": "vague_recall", "query": "that thing where graph cuts x axis and those are answers", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Geometrical Meaning of the Zeroes", "Relationship between Zeroes and Coefficients"]}
+{"id": 12, "category": "student_language", "query": "if i know zeroes how do i make polynomial", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Relationship between Zeroes and Coefficients"]}
+{"id": 13, "category": "exact_reference", "query": "what does section 2.2 explain", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Geometrical Meaning of the Zeroes", "Relationship between Zeroes and Coefficients"]}
+{"id": 14, "category": "noisy_paraphrase", "query": "x square minus 7x plus 10 roots where is this type taught", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Relationship between Zeroes and Coefficients", "EXERCISE 2.2"]}
+{"id": 15, "category": "concept_link", "query": "what is difference between zero of polynomial and solution of equation", "expected_chapter": "POLYNOMIALS", "expected_titles": ["Geometrical Meaning of the Zeroes", "Relationship between Zeroes and Coefficients"]}
+{"id": 16, "category": "student_language", "query": "how do i know two lines will never meet", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Graphical Method of Solution"]}
+{"id": 17, "category": "student_language", "query": "how to know two equations are actually same line", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Graphical Method of Solution"]}
+{"id": 18, "category": "notation", "query": "a1 over a2 b1 over b2 c1 over c2 condition no solution", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Graphical Method of Solution"]}
+{"id": 19, "category": "noisy_paraphrase", "query": "eliminate one variable by multiplying equations method", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Elimination Method"]}
+{"id": 20, "category": "vague_recall", "query": "method where you replace x from one equation into other", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Substitution Method"]}
+{"id": 21, "category": "concept_link", "query": "consistent inconsistent dependent equations explain difference", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Graphical Method of Solution", "Summary"]}
+{"id": 22, "category": "student_language", "query": "word problems with two unknowns where do i learn", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Algebraic Methods", "Elimination Method", "Substitution Method"]}
+{"id": 23, "category": "exact_reference", "query": "what is graphical method for pair of equations", "expected_chapter": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES", "expected_titles": ["Graphical Method of Solution"]}
+{"id": 24, "category": "student_language", "query": "why b2 minus 4ac less than zero means no real roots", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Nature of Roots"]}
+{"id": 25, "category": "notation", "query": "D equals b squared minus 4ac what does it tell us", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Nature of Roots"]}
+{"id": 26, "category": "vague_recall", "query": "formula with minus b plus minus square root something", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Introduction", "Summary"]}
+{"id": 27, "category": "student_language", "query": "how do i know quadratic has same root twice", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Nature of Roots"]}
+{"id": 28, "category": "noisy_paraphrase", "query": "turn word problem into ax2 bx c and solve", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Introduction"]}
+{"id": 29, "category": "concept_link", "query": "factorisation method versus quadratic formula when to use", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Introduction", "Summary"]}
+{"id": 30, "category": "exact_reference", "query": "nature of roots section", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Nature of Roots"]}
+{"id": 31, "category": "notation", "query": "if discriminant zero then what are roots", "expected_chapter": "QUADRATIC EQUATIONS", "expected_titles": ["Nature of Roots"]}
+{"id": 32, "category": "student_language", "query": "find that nth term thing in ap", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["Arithmetic Progressions", "nth Term of an AP"]}
+{"id": 33, "category": "notation", "query": "an equals a plus n minus 1 d explain", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["nth Term of an AP", "Arithmetic Progressions"]}
+{"id": 34, "category": "vague_recall", "query": "formula for adding first n terms in sequence with common difference", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["Sum of First"]}
+{"id": 35, "category": "student_language", "query": "how to tell if numbers form ap", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["Arithmetic Progressions"]}
+{"id": 36, "category": "noisy_paraphrase", "query": "missing number between 8 and 20 in arithmetic progression", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["Arithmetic Progressions"]}
+{"id": 37, "category": "concept_link", "query": "difference between nth term and sum of n terms", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["nth Term of an AP", "Sum of First"]}
+{"id": 38, "category": "exact_reference", "query": "sum of first n terms ap section", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["Sum of First"]}
+{"id": 39, "category": "notation", "query": "Sn equals n over 2 bracket 2a plus n minus 1 d", "expected_chapter": "ARITHMETIC PROGRESSIONS", "expected_titles": ["Sum of First"]}
+{"id": 40, "category": "student_language", "query": "triangle same shape different size conditions", "expected_chapter": "TRIANGLES", "expected_titles": ["Similarity of Triangles", "Similar Figures"]}
+{"id": 41, "category": "vague_recall", "query": "theorem where line parallel to one side divides other sides proportionally", "expected_chapter": "TRIANGLES", "expected_titles": ["Similarity of Triangles"]}
+{"id": 42, "category": "noisy_paraphrase", "query": "basic proportionality theorem in simple words", "expected_chapter": "TRIANGLES", "expected_titles": ["Similarity of Triangles"]}
+{"id": 43, "category": "student_language", "query": "how to prove two triangles similar using angles", "expected_chapter": "TRIANGLES", "expected_titles": ["Criteria for Similarity of Triangles"]}
+{"id": 44, "category": "concept_link", "query": "aa sas sss similarity difference", "expected_chapter": "TRIANGLES", "expected_titles": ["Criteria for Similarity of Triangles"]}
+{"id": 45, "category": "exact_reference", "query": "theorem 6.1 triangles", "expected_chapter": "TRIANGLES", "expected_titles": ["Similarity of Triangles", "Criteria for Similarity of Triangles"]}
+{"id": 46, "category": "student_language", "query": "pythagoras converse says what", "expected_chapter": "TRIANGLES", "expected_titles": ["Conjectures, Theorems, Proofs and Mathematical Reasoning", "Distance Formula"]}
+{"id": 47, "category": "notation", "query": "if sides proportional then which similarity rule", "expected_chapter": "TRIANGLES", "expected_titles": ["Criteria for Similarity of Triangles"]}
+{"id": 48, "category": "vague_recall", "query": "ratio of areas of similar triangles formula", "expected_chapter": "TRIANGLES", "expected_titles": ["Areas of Similar Triangles"]}
+{"id": 49, "category": "vague_recall", "query": "i forgot formula with x1 x2 y1 y2 under square root", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Distance Formula"]}
+{"id": 50, "category": "student_language", "query": "point that divides line in 2 is to 3 ratio formula", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Section Formula"]}
+{"id": 51, "category": "notation", "query": "sqrt x2 minus x1 whole square plus y2 minus y1 whole square", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Distance Formula"]}
+{"id": 52, "category": "concept_link", "query": "when use distance formula vs section formula", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Distance Formula", "Section Formula"]}
+{"id": 53, "category": "student_language", "query": "midpoint of two coordinates where taught", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Section Formula"]}
+{"id": 54, "category": "exact_reference", "query": "section formula chapter 7", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Section Formula"]}
+{"id": 55, "category": "noisy_paraphrase", "query": "how far apart are two coordinate points formula", "expected_chapter": "COORDINATE GEOMETRY", "expected_titles": ["Distance Formula"]}
+{"id": 56, "category": "student_language", "query": "sin cos tan from sides of right triangle explain", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Ratios"]}
+{"id": 57, "category": "vague_recall", "query": "sin square plus cos square equals one where is that", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Identities"]}
+{"id": 58, "category": "notation", "query": "1 plus tan squared theta equals sec squared theta", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Identities"]}
+{"id": 59, "category": "student_language", "query": "if tan theta is 3 by 4 how do i get sin and cos", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Ratios"]}
+{"id": 60, "category": "exact_reference", "query": "values of sin 30 cos 60", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Ratios of Some Specific Angles"]}
+{"id": 61, "category": "noisy_paraphrase", "query": "table of trig values 0 30 45 60 90", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Ratios of Some Specific Angles"]}
+{"id": 62, "category": "concept_link", "query": "reciprocal ratios cosec sec cot", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Ratios"]}
+{"id": 63, "category": "student_language", "query": "why tan is sin divided by cos", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Ratios"]}
+{"id": 64, "category": "vague_recall", "query": "which identities help simplify trig expressions", "expected_chapter": "INTRODUCTION TO TRIGONOMETRY", "expected_titles": ["Trigonometric Identities"]}
+{"id": 65, "category": "student_language", "query": "tower shadow given find height which topic", "expected_chapter": "SOME APPLICATIONS OF TRIGONOMETRY", "expected_titles": ["Heights and Distances"]}
+{"id": 66, "category": "vague_recall", "query": "looking up at top of building angle name", "expected_chapter": "SOME APPLICATIONS OF TRIGONOMETRY", "expected_titles": ["Heights and Distances"]}
+{"id": 67, "category": "student_language", "query": "looking down from lighthouse angle what is called", "expected_chapter": "SOME APPLICATIONS OF TRIGONOMETRY", "expected_titles": ["Heights and Distances"]}
+{"id": 68, "category": "noisy_paraphrase", "query": "height distance problems using tan theta", "expected_chapter": "SOME APPLICATIONS OF TRIGONOMETRY", "expected_titles": ["Heights and Distances"]}
+{"id": 69, "category": "concept_link", "query": "angle elevation versus depression", "expected_chapter": "SOME APPLICATIONS OF TRIGONOMETRY", "expected_titles": ["Heights and Distances"]}
+{"id": 70, "category": "exact_reference", "query": "heights and distances section", "expected_chapter": "SOME APPLICATIONS OF TRIGONOMETRY", "expected_titles": ["Heights and Distances"]}
+{"id": 71, "category": "student_language", "query": "why tangent and radius make 90 degree", "expected_chapter": "CIRCLES", "expected_titles": ["Tangent to a Circle"]}
+{"id": 72, "category": "vague_recall", "query": "two tangents from outside point have same length theorem", "expected_chapter": "CIRCLES", "expected_titles": ["Number of Tangents from a Point on a Circle"]}
+{"id": 73, "category": "notation", "query": "PA equals PB tangents from P theorem", "expected_chapter": "CIRCLES", "expected_titles": ["Number of Tangents from a Point on a Circle"]}
+{"id": 74, "category": "noisy_paraphrase", "query": "line touches circle at exactly one point what is it", "expected_chapter": "CIRCLES", "expected_titles": ["Tangent to a Circle"]}
+{"id": 75, "category": "concept_link", "query": "secant versus tangent difference", "expected_chapter": "CIRCLES", "expected_titles": ["Tangent to a Circle"]}
+{"id": 76, "category": "exact_reference", "query": "tangent theorem class 10 circle", "expected_chapter": "CIRCLES", "expected_titles": ["Tangent to a Circle", "Number of Tangents from a Point on a Circle"]}
+{"id": 77, "category": "student_language", "query": "pizza slice area formula circle", "expected_chapter": "AREAS RELATED TO CIRCLES", "expected_titles": ["Areas of Sector and Segment of a Circle"]}
+{"id": 78, "category": "vague_recall", "query": "curved part length for angle theta formula", "expected_chapter": "AREAS RELATED TO CIRCLES", "expected_titles": ["Areas of Sector and Segment of a Circle"]}
+{"id": 79, "category": "concept_link", "query": "sector and segment difference", "expected_chapter": "AREAS RELATED TO CIRCLES", "expected_titles": ["Areas of Sector and Segment of a Circle"]}
+{"id": 80, "category": "notation", "query": "theta over 360 times pi r squared", "expected_chapter": "AREAS RELATED TO CIRCLES", "expected_titles": ["Areas of Sector and Segment of a Circle"]}
+{"id": 81, "category": "student_language", "query": "area between chord and arc what is called", "expected_chapter": "AREAS RELATED TO CIRCLES", "expected_titles": ["Areas of Sector and Segment of a Circle"]}
+{"id": 82, "category": "exact_reference", "query": "area of sector class 10", "expected_chapter": "AREAS RELATED TO CIRCLES", "expected_titles": ["Areas of Sector and Segment of a Circle"]}
+{"id": 83, "category": "student_language", "query": "cone volume one third pi r square h where taught", "expected_chapter": "SURFACE AREAS AND VOLUMES 12", "expected_titles": ["Volume of a Combination of Solids", "EXERCISE 12.2", "Summary"]}
+{"id": 84, "category": "vague_recall", "query": "solid made of cylinder and hemisphere how find total surface area", "expected_chapter": "SURFACE AREAS AND VOLUMES 12", "expected_titles": ["Surface Area of a Combination of Solids"]}
+{"id": 85, "category": "student_language", "query": "object melted and recast volume stays same type question", "expected_chapter": "SURFACE AREAS AND VOLUMES 12", "expected_titles": ["Volume of a Combination of Solids"]}
+{"id": 86, "category": "notation", "query": "4 by 3 pi r cube sphere", "expected_chapter": "SURFACE AREAS AND VOLUMES 12", "expected_titles": ["Volume of a Combination of Solids", "Summary", "EXERCISE 12.2"]}
+{"id": 87, "category": "concept_link", "query": "curved surface area versus total surface area combined solid", "expected_chapter": "SURFACE AREAS AND VOLUMES 12", "expected_titles": ["Surface Area of a Combination of Solids"]}
+{"id": 88, "category": "exact_reference", "query": "volume combination solids section", "expected_chapter": "SURFACE AREAS AND VOLUMES 12", "expected_titles": ["Volume of a Combination of Solids"]}
+{"id": 89, "category": "student_language", "query": "frequency table given how do i calculate average", "expected_chapter": "STATISTICS", "expected_titles": ["Mean of Grouped Data"]}
+{"id": 90, "category": "notation", "query": "sum fi xi over sum fi formula", "expected_chapter": "STATISTICS", "expected_titles": ["Mean of Grouped Data"]}
+{"id": 91, "category": "vague_recall", "query": "middle value formula for grouped frequency data", "expected_chapter": "STATISTICS", "expected_titles": ["Median of Grouped Data"]}
+{"id": 92, "category": "student_language", "query": "which class has highest frequency and mode formula", "expected_chapter": "STATISTICS", "expected_titles": ["Mode of Grouped Data"]}
+{"id": 93, "category": "concept_link", "query": "mean median mode when should i use each", "expected_chapter": "STATISTICS", "expected_titles": ["Introduction", "Mode of Grouped Data", "Median of Grouped Data", "Summary"]}
+{"id": 94, "category": "notation", "query": "upper limit plus lower limit divided by 2 is what", "expected_chapter": "STATISTICS", "expected_titles": ["Mean of Grouped Data"]}
+{"id": 95, "category": "exact_reference", "query": "cumulative frequency and ogive where explained", "expected_chapter": "STATISTICS", "expected_titles": ["Median of Grouped Data", "Introduction"]}
+{"id": 96, "category": "student_language", "query": "chance of impossible thing should be what", "expected_chapter": "PROBABILITY", "expected_titles": ["Probability — A Theoretical Approach"]}
+{"id": 97, "category": "student_language", "query": "sure event probability why one", "expected_chapter": "PROBABILITY", "expected_titles": ["Probability — A Theoretical Approach"]}
+{"id": 98, "category": "notation", "query": "favourable outcomes divided by total outcomes formula", "expected_chapter": "PROBABILITY", "expected_titles": ["Probability — A Theoretical Approach"]}
+{"id": 99, "category": "concept_link", "query": "experimental probability versus theoretical probability", "expected_chapter": "PROBABILITY", "expected_titles": ["Probability — A Theoretical Approach"]}
+{"id": 100, "category": "vague_recall", "query": "not E probability equals one minus E", "expected_chapter": "PROBABILITY", "expected_titles": ["Probability — A Theoretical Approach"]}
